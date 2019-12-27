@@ -138,7 +138,7 @@ namespace Innovate_Diary
             }
             panel3.Controls.Add(gunaPanel1);
 
-            MessageBox.Show("This is a new change");
+          //  MessageBox.Show("This is a new change");
 
         }
 
