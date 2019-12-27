@@ -138,6 +138,8 @@ namespace Innovate_Diary
             }
             panel3.Controls.Add(gunaPanel1);
 
+            MessageBox.Show("This is a new change");
+
         }
 
         private void gunaAdvenceButton2_Click(object sender, EventArgs e)
